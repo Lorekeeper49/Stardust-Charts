@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GSU Idle Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GSU Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GSU Right Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GSU Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				3
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GSU Up Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GSU_assets",
+	"position": [
+		100,
+		300
+	],
+	"healthicon": "gsu",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		205,
+		215
+	],
+	"camera_position": [
+		-10,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

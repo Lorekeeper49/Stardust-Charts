@@ -1,0 +1,26 @@
+function onCreate()
+    makeLuaSprite('2', 'doki/DDLCfarbg', -700, -700)
+    scaleObject('2', 1.7, 1.7)
+    setScrollFactor('2', 0.95, 1)
+    addLuaSprite('2', false)
+    makeLuaSprite('1', 'doki/DDLCbg', -700, -700)
+    scaleObject('1', 1.7, 1.7)
+    addLuaSprite('1', false)
+    makeLuaSprite('3', 'doki/DesksFront', -700, -700)
+    scaleObject('3', 1.7, 1.7)
+    addLuaSprite('3', true)
+    makeAnimatedLuaSprite('yuri', 'doki/yuri', 200, 0)
+    scaleObject('yuri', 0.75, 0.75)
+    addAnimationByPrefix('yuri', 'beat', 'Yuri BG', 24, false)
+    addLuaSprite('yuri', false)
+    makeAnimatedLuaSprite('natsuki', 'doki/natsuki', 1200, 100)
+    scaleObject('natsuki', 0.75, 0.75)
+    addAnimationByPrefix('natsuki', 'beat', 'Natsu BG', 24, false)
+    addLuaSprite('natsuki', false)
+end
+function onBeatHit()
+    if curBeat%2 == 0 then
+        objectPlayAnimation('yuri', 'beat', true)
+        objectPlayAnimation('natsuki', 'beat', true)
+    end
+end

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="portal.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="portalRotationLoop0000" x="0" y="0" width="846" height="846" frameX="-71" frameY="-85" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0001" x="846" y="0" width="846" height="846" frameX="-71" frameY="-85" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0002" x="1692" y="0" width="846" height="846" frameX="-71" frameY="-85" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0003" x="2538" y="0" width="847" height="859" frameX="-71" frameY="-72" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0004" x="3385" y="0" width="903" height="903" frameX="-43" frameY="-44" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0005" x="4288" y="0" width="929" height="929" frameX="-30" frameY="-31" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0006" x="5217" y="0" width="947" height="947" frameX="-21" frameY="-22" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0007" x="6164" y="0" width="965" height="965" frameX="-12" frameY="-13" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0008" x="7129" y="0" width="977" height="977" frameX="-6" frameY="-7" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0009" x="0" y="977" width="987" height="987" frameX="-1" frameY="-2" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0010" x="987" y="977" width="989" height="989" frameX="0" frameY="-1" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0011" x="1976" y="977" width="985" height="985" frameX="-2" frameY="-3" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0012" x="2961" y="977" width="969" height="969" frameX="-10" frameY="-11" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0013" x="3930" y="977" width="949" height="949" frameX="-20" frameY="-21" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0014" x="4879" y="977" width="915" height="915" frameX="-37" frameY="-38" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0015" x="5794" y="977" width="865" height="868" frameX="-62" frameY="-63" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0016" x="6659" y="977" width="846" height="846" frameX="-71" frameY="-85" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0017" x="0" y="1966" width="846" height="846" frameX="-71" frameY="-85" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0018" x="846" y="1966" width="846" height="846" frameX="-71" frameY="-85" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0019" x="1692" y="1966" width="846" height="846" frameX="-71" frameY="-85" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0020" x="2538" y="1966" width="846" height="846" frameX="-71" frameY="-85" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0021" x="3384" y="1966" width="857" height="864" frameX="-66" frameY="-67" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0022" x="4241" y="1966" width="917" height="916" frameX="-36" frameY="-37" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0023" x="5158" y="1966" width="953" height="954" frameX="-18" frameY="-18" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0024" x="6111" y="1966" width="981" height="982" frameX="-4" frameY="-4" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0025" x="7092" y="1966" width="989" height="990"/>
+	<SubTexture name="portalRotationLoop0026" x="0" y="2956" width="982" height="982" frameX="-3" frameY="-4" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0027" x="982" y="2956" width="959" height="960" frameX="-15" frameY="-15" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0028" x="1941" y="2956" width="922" height="922" frameX="-33" frameY="-34" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0029" x="2863" y="2956" width="863" height="868" frameX="-63" frameY="-63" frameWidth="989" frameHeight="990"/>
+	<SubTexture name="portalRotationLoop0030" x="3726" y="2956" width="846" height="846" frameX="-71" frameY="-85" frameWidth="989" frameHeight="990"/>
+</TextureAtlas>

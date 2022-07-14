@@ -1,0 +1,2 @@
+Value 1: final x position
+Value 2: move time in seconds

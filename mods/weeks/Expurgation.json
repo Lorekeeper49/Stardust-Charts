@@ -1,0 +1,26 @@
+{
+	"storyName": "Stardust Tunes",
+	"difficulties": "unfair,opponentunfair",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Expurgation",
+			"ex",
+			[
+				255,
+				215,
+				70
+			]
+		]	
+	],
+	"hideStoryMode": true,
+	"weekName": "Expurgation"
+}

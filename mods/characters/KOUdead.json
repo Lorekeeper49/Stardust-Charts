@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				33,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "KOU dies"
+		},
+		{
+			"offsets": [
+				18,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "KOU Dead confirm"
+		},
+		{
+			"offsets": [
+				18,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "KOU Dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KOUdead",
+	"position": [
+		30,
+		225
+	],
+	"healthicon": "kou",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

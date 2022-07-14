@@ -1,0 +1,593 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "space",
+		"player1": "bf-car",
+		"player2": "spacey",
+		"player3": null,
+		"healthdrain": null,
+		"events": [
+			[
+				5812.5,
+				[
+					[
+						"Move BF x",
+						"1500",
+						"1.69"
+					],
+					[
+						"Move BF y",
+						"450",
+						"1.69"
+					],
+					[
+						"Move GF x",
+						"1380",
+						"1.69"
+					],
+					[
+						"Move GF y",
+						"130",
+						"1.69"
+					]
+				]
+			],
+			[
+				9000,
+				[
+					[
+						"Add KOU",
+						"",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					],
+					[
+						"Hudalpha",
+						"1",
+						"3"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				27000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				33000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				35625,
+				[
+					[
+						"Move Opponent y",
+						"230",
+						"0.5"
+					]
+				]
+			],
+			[
+				59625,
+				[
+					[
+						"Add Yukichi",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"200"
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"200"
+					]
+				]
+			],
+			[
+				69000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"200"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"200"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83250,
+				[
+					[
+						"Add Void",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Camera Follow Pos",
+						"-200",
+						"400"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Camera Follow Pos",
+						"-200",
+						"400"
+					]
+				]
+			],
+			[
+				99000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Camera Follow Pos",
+						"-200",
+						"400"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				117000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				121500,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				123000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"200"
+					]
+				]
+			],
+			[
+				129000,
+				[
+					[
+						"Camera Follow Pos",
+						"-200",
+						"400"
+					]
+				]
+			],
+			[
+				130500,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				133500,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"200"
+					]
+				]
+			],
+			[
+				134812.5,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				136500,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139500,
+				[
+					[
+						"Camera Follow Pos",
+						"-200",
+						"400"
+					]
+				]
+			],
+			[
+				140906.25,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145500,
+				[
+					[
+						"Camera Follow Pos",
+						"-200",
+						"400"
+					]
+				]
+			],
+			[
+				147000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				148500,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"200"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				154500,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				157500,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				159000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				160500,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				163500,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166500,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				169500,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"400"
+					]
+				]
+			],
+			[
+				175500,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": null,
+		"validScore": false,
+		"bfTrails": null,
+		"gfVersion": "gf-car",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"healthdrainKill": null,
+		"swapStrumLines": null,
+		"cameraMoveOnNotes": null,
+		"song": "Fermi's Paradox",
+		"songInstVolume": null,
+		"disableAntiMash": null,
+		"disableDebugButtons": null
+	}
+}

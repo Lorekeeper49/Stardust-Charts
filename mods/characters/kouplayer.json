@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				17,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "KOU NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				-15,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "KOU NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				-19,
+				-48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "KOU NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-53,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "KOU NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				33,
+				-36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "KOU dies"
+		},
+		{
+			"offsets": [
+				18,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "KOU Dead confirm"
+		},
+		{
+			"offsets": [
+				18,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "KOU Dead confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-59
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "KOU DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-49
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "KOU UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				-49
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "KOU RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-41,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "KOU idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-94
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "KOU LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/KOU_Player_Assets",
+	"position": [
+		30,
+		225
+	],
+	"healthicon": "kou",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,254 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Void Idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Void Idle"
+		},
+		{
+			"offsets": [
+				-20,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Void Left Note Chill"
+		},
+		{
+			"offsets": [
+				26,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Void Right Note Chill"
+		},
+		{
+			"offsets": [
+				-31,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Void Down Note Chill"
+		},
+		{
+			"offsets": [
+				-47,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Void Up Note Chill"
+		},
+		{
+			"offsets": [
+				-20,
+				16
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Void Left Note Chill"
+		},
+		{
+			"offsets": [
+				26,
+				-30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [],
+			"name": "Void Right Note Chill"
+		},
+		{
+			"offsets": [
+				-31,
+				-29
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "Void Down Note Chill"
+		},
+		{
+			"offsets": [
+				-47,
+				24
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "Void Up Note Chill"
+		},
+		{
+			"offsets": [
+				-10,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Void Left Note Hype"
+		},
+		{
+			"offsets": [
+				-28,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Void Right Note Hype"
+		},
+		{
+			"offsets": [
+				-30,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Void Down Note Hype"
+		},
+		{
+			"offsets": [
+				-47,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Void Up Note Hype"
+		},
+		{
+			"offsets": [
+				-10,
+				15
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt-loop",
+			"indices": [],
+			"name": "Void Left Note Hype"
+		},
+		{
+			"offsets": [
+				-28,
+				-16
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt-loop",
+			"indices": [],
+			"name": "Void Right Note Hype"
+		},
+		{
+			"offsets": [
+				-30,
+				-27
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-alt-loop",
+			"indices": [],
+			"name": "Void Down Note Hype"
+		},
+		{
+			"offsets": [
+				-47,
+				56
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt-loop",
+			"indices": [],
+			"name": "Void Up Note Hype"
+		},
+		{
+			"offsets": [
+				-170,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "seethe",
+			"indices": [],
+			"name": "Void Seethe"
+		},
+		{
+			"offsets": [
+				-170,
+				-55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "Void Intro"
+		},
+		{
+			"offsets": [
+				-170,
+				-55
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "wink",
+			"loop": false,
+			"name": "Void Wink"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/void_assets",
+	"position": [
+		-340,
+		0
+	],
+	"healthicon": "void",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		180,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spacey idle0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spacey left note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-15
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spacey right note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spacey down note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				12
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spacey up note0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spacey_assets",
+	"position": [
+		-340,
+		0
+	],
+	"healthicon": "spacey",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		180,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

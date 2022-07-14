@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "start",
+			"loop": false,
+			"name": "Entrance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "expurgation/EXENTER",
+	"position": [
+		0,
+		-300
+	],
+	"healthicon": "ex",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		25,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

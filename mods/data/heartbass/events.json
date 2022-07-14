@@ -1,0 +1,34 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "date",
+		"player1": "dateWhitty",
+		"player2": "carol",
+		"player3": null,
+		"events": [
+			[
+				65684.2105263157,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					],
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "Heartbass"
+	}
+}

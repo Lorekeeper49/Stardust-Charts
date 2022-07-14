@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacey_assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spacey down note0000" x="85" y="85" width="1071" height="708" frameX="0" frameY="-1" frameWidth="1071" frameHeight="709"/>
+	<SubTexture name="spacey down note0001" x="85" y="85" width="1071" height="708" frameX="0" frameY="-1" frameWidth="1071" frameHeight="709"/>
+	<SubTexture name="spacey down note0002" x="1231" y="85" width="1071" height="709"/>
+	<SubTexture name="spacey down note0003" x="1231" y="85" width="1071" height="709"/>
+	<SubTexture name="spacey down note0004" x="1231" y="85" width="1071" height="709"/>
+	<SubTexture name="spacey down note0005" x="1231" y="85" width="1071" height="709"/>
+	<SubTexture name="spacey down note0006" x="1231" y="85" width="1071" height="709"/>
+	<SubTexture name="spacey down note0007" x="1231" y="85" width="1071" height="709"/>
+	<SubTexture name="spacey down note0008" x="1231" y="85" width="1071" height="709"/>
+	<SubTexture name="spacey down note0009" x="1231" y="85" width="1071" height="709"/>
+	<SubTexture name="spacey idle0000" x="2377" y="85" width="1071" height="723" frameX="0" frameY="-14" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0001" x="2377" y="85" width="1071" height="723" frameX="0" frameY="-14" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0002" x="3523" y="85" width="1049" height="714" frameX="-11" frameY="-12" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0003" x="3523" y="85" width="1049" height="714" frameX="-11" frameY="-12" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0004" x="4647" y="85" width="1025" height="706" frameX="-23" frameY="-8" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0005" x="4647" y="85" width="1025" height="706" frameX="-23" frameY="-8" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0006" x="5747" y="85" width="1003" height="696" frameX="-34" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0007" x="5747" y="85" width="1003" height="696" frameX="-34" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0008" x="6825" y="85" width="979" height="684" frameX="-46" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0009" x="6825" y="85" width="979" height="684" frameX="-46" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0010" x="85" y="883" width="955" height="673" frameX="-58" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0011" x="85" y="883" width="955" height="673" frameX="-58" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0012" x="1115" y="883" width="933" height="673" frameX="-69" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0013" x="1115" y="883" width="933" height="673" frameX="-69" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0014" x="2123" y="883" width="909" height="673" frameX="-81" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0015" x="3107" y="883" width="909" height="677" frameX="-81" frameY="0" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0016" x="4091" y="883" width="931" height="677" frameX="-70" frameY="0" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0017" x="5097" y="883" width="931" height="677" frameX="-70" frameY="-2" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0018" x="6103" y="883" width="953" height="677" frameX="-59" frameY="-2" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0019" x="7131" y="883" width="953" height="674" frameX="-59" frameY="-6" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0020" x="85" y="1635" width="975" height="683" frameX="-48" frameY="-6" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0021" x="1135" y="1635" width="975" height="682" frameX="-48" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0022" x="2185" y="1635" width="995" height="692" frameX="-38" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0023" x="2185" y="1635" width="995" height="692" frameX="-38" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0024" x="3255" y="1635" width="1017" height="703" frameX="-27" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0025" x="3255" y="1635" width="1017" height="703" frameX="-27" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0026" x="4347" y="1635" width="1039" height="714" frameX="-16" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0027" x="4347" y="1635" width="1039" height="714" frameX="-16" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey idle0028" x="5461" y="1635" width="1061" height="725" frameX="-5" frameY="-7" frameWidth="1071" frameHeight="737"/>
+	<SubTexture name="spacey left note0000" x="6597" y="1635" width="1071" height="733"/>
+	<SubTexture name="spacey left note0001" x="6597" y="1635" width="1071" height="733"/>
+	<SubTexture name="spacey left note0002" x="85" y="2443" width="1071" height="733"/>
+	<SubTexture name="spacey left note0003" x="85" y="2443" width="1071" height="733"/>
+	<SubTexture name="spacey left note0004" x="85" y="2443" width="1071" height="733"/>
+	<SubTexture name="spacey left note0005" x="85" y="2443" width="1071" height="733"/>
+	<SubTexture name="spacey left note0006" x="85" y="2443" width="1071" height="733"/>
+	<SubTexture name="spacey left note0007" x="85" y="2443" width="1071" height="733"/>
+	<SubTexture name="spacey left note0008" x="85" y="2443" width="1071" height="733"/>
+	<SubTexture name="spacey left note0009" x="85" y="2443" width="1071" height="733"/>
+	<SubTexture name="spacey right note0000" x="1231" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey right note0001" x="1231" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey right note0002" x="2377" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey right note0003" x="2377" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey right note0004" x="2377" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey right note0005" x="2377" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey right note0006" x="2377" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey right note0007" x="2377" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey right note0008" x="2377" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey right note0009" x="2377" y="2443" width="1071" height="723"/>
+	<SubTexture name="spacey up note0000" x="3523" y="2443" width="1071" height="750"/>
+	<SubTexture name="spacey up note0001" x="3523" y="2443" width="1071" height="750"/>
+	<SubTexture name="spacey up note0002" x="4669" y="2443" width="1071" height="744" frameX="0" frameY="-6" frameWidth="1071" frameHeight="750"/>
+	<SubTexture name="spacey up note0003" x="4669" y="2443" width="1071" height="744" frameX="0" frameY="-6" frameWidth="1071" frameHeight="750"/>
+	<SubTexture name="spacey up note0004" x="4669" y="2443" width="1071" height="744" frameX="0" frameY="-6" frameWidth="1071" frameHeight="750"/>
+	<SubTexture name="spacey up note0005" x="4669" y="2443" width="1071" height="744" frameX="0" frameY="-6" frameWidth="1071" frameHeight="750"/>
+	<SubTexture name="spacey up note0006" x="4669" y="2443" width="1071" height="744" frameX="0" frameY="-6" frameWidth="1071" frameHeight="750"/>
+	<SubTexture name="spacey up note0007" x="4669" y="2443" width="1071" height="744" frameX="0" frameY="-6" frameWidth="1071" frameHeight="750"/>
+	<SubTexture name="spacey up note0008" x="4669" y="2443" width="1071" height="744" frameX="0" frameY="-6" frameWidth="1071" frameHeight="750"/>
+	<SubTexture name="spacey up note0009" x="4669" y="2443" width="1071" height="744" frameX="0" frameY="-6" frameWidth="1071" frameHeight="750"/>
+</TextureAtlas>

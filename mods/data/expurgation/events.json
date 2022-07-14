@@ -1,0 +1,98 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "expurgation",
+		"player1": "bf",
+		"player2": "exTricky",
+		"player3": null,
+		"healthdrain": null,
+		"events": [
+			[
+				22956.5217391304,
+				[
+					[
+						"exdrain",
+						"0.3",
+						"4"
+					]
+				]
+			],
+			[
+				41739.1304347826,
+				[
+					[
+						"exdrain",
+						"0.1",
+						"2"
+					]
+				]
+			],
+			[
+				60521.7391304348,
+				[
+					[
+						"exdrain",
+						"0.3",
+						"4"
+					]
+				]
+			],
+			[
+				76173.9130434783,
+				[
+					[
+						"exdrain",
+						"0.3",
+						"4"
+					]
+				]
+			],
+			[
+				100173.913043478,
+				[
+					[
+						"exdrain",
+						"0.3",
+						"4"
+					]
+				]
+			],
+			[
+				142956.521739131,
+				[
+					[
+						"exdrain",
+						"0.3",
+						"4"
+					]
+				]
+			],
+			[
+				173217.391304348,
+				[
+					[
+						"exdrain",
+						"0.15",
+						"17"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"characterTrails": null,
+		"validScore": false,
+		"bfTrails": null,
+		"gfVersion": "tiedgf",
+		"bpm": 230,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"healthdrainKill": null,
+		"swapStrumLines": null,
+		"cameraMoveOnNotes": null,
+		"song": "Expurgation",
+		"songInstVolume": null,
+		"disableAntiMash": null,
+		"disableDebugButtons": null
+	}
+}

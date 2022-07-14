@@ -1,0 +1,4 @@
+The sprite tag must be 'image'
+
+Value 1: opacity
+Value 2: fade time

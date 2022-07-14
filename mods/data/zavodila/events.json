@@ -1,0 +1,138 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "churchRuv",
+		"player1": "bf",
+		"player2": "ruv",
+		"player3": null,
+		"healthdrain": null,
+		"events": [
+			[
+				21818.1818181818,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				35909.0909090909,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				41818.1818181818,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				45454.5454545455,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				56363.6363636364,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				57386.3636363636,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				61818.1818181818,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				63636.3636363636,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				72727.2727272727,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				78181.8181818182,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				87272.7272727273,
+				[
+					[
+						"Ruv Ghost Animations",
+						"0.5",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": null,
+		"validScore": false,
+		"bfTrails": null,
+		"gfVersion": "gf",
+		"bpm": 132,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"healthdrainKill": null,
+		"swapStrumLines": null,
+		"cameraMoveOnNotes": null,
+		"song": "Zavodila",
+		"songInstVolume": null,
+		"disableAntiMash": null,
+		"disableDebugButtons": null
+	}
+}
